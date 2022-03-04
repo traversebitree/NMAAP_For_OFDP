@@ -9,7 +9,6 @@ We provide related codes of NMAAP for OFDP.
 ## Citation
 To be added.
 
-## Install
-### Requirements
+## Requirements
 
-### Usage
+## Usage
