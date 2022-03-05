@@ -25,12 +25,15 @@ in terms of convergence ability and convergence rate in the static experiment an
 Python 3.10+
 
 ## Usage
+You can change the parameters of algorithm and instances in `NMAAP_For_OFDP/src/config.py `. And you can view 12 instances in `NMAAP_For_OFDP/instances/instances.xlsx`. In `NMAAP_For_OFDP/src/instance_generator.py` you can add or modify the instances.
+
+To use the NMAAP as a solver, you need to run the following comands.
+
 ```sh
 git clone https://github.com/traversebitree/NMAAP_For_OFDP.git
 cd NMAAP_For_OFDP
 python ./src/main.py
 ```
-You can change the parameters of algorithm and instances in `NMAAP_For_OFDP/src/config.py `. And you can view 12 instances in 'NMAAP_For_OFDP/instances/instances.xlsx'. In `NMAAP_For_OFDP/src/instance_generator.py` you can add or modify the instances.
 
 ## Cite us
 To be added.
