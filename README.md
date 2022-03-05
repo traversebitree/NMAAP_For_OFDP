@@ -12,12 +12,12 @@ An efficient food delivery strategy is of importance for the O2O platforms, as i
 </div>
 Then, we proposed a niche-based memetic algorithm with adaptive parameters (NMAAP), a heuristic algorithm, to solve the problem. It is based on the memetic algorithm and combines the niche differentiation with adaptive adjustment of crossover and mutation rates. And the flowchart of solving OFDP using NMAAP is as follows.
 <div align="center">
-<img src="https://user-images.githubusercontent.com/30373236/156862383-70c49382-973f-4e7c-be03-5be18f98aa67.png" height="350"/>
+<img src="https://user-images.githubusercontent.com/30373236/156862383-70c49382-973f-4e7c-be03-5be18f98aa67.png" height="450"/>
 </div>
 Static and dynamic experiments are undertaken to evaluate the performance of NMAAP. The preliminary experimental results show that the proposed NMAAP has better performance
 in terms of convergence ability and convergence rate in the static experiment and less average waiting time of customers in the dynamic experiment.
 <div align="center">
-<img src="https://user-images.githubusercontent.com/30373236/156862717-32c92fbf-fbb6-4227-8330-da79b8dc8411.png" height="350"/>
+<img src="https://user-images.githubusercontent.com/30373236/156862717-32c92fbf-fbb6-4227-8330-da79b8dc8411.png" height="450"/>
 </div>
 
 
