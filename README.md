@@ -27,5 +27,6 @@ in terms of convergence ability and convergence rate in the static experiment an
 To be added.
 
 ## Requirements
+Python 3.10+
 
 ## Usage
