@@ -30,3 +30,8 @@ To be added.
 Python 3.10+
 
 ## Usage
+```sh
+git clone https://github.com/traversebitree/NMAAP_For_OFDP.git
+cd NMAAP_For_OFDP
+python ./src/main.py
+```
